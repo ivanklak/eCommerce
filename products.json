@@ -60,7 +60,7 @@
       "sys": { "id": "8" },
       "fields": {
         "title": "Nuts",
-        "price": 33.99,
+        "price": 3.99,
         "image": { "fields": { "file": { "url": "./images/nut-mix.jpg" } } }
       }
     }
