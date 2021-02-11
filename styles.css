@@ -150,7 +150,8 @@ body {
 .product-img {
   display: block;
   width: 100%;
-  min-height: 12rem;
+  /* border-radius: 10px; */
+  min-height: 14rem;
   transition: var(--mainTransition);
 }
 .img-container:hover .product-img {
@@ -184,7 +185,7 @@ body {
   width: 100%;
   height: 100%;
   transition: var(--mainTransition);
-  background: rgb(240, 157, 81, 0.5);
+  background: rgba(179, 179, 179, 0.301);
   z-index: 2;
   visibility: hidden;
 }
